@@ -105,4 +105,35 @@ Start Date: July 16, 2023
 End Date: August 1, 2023
 Duration: 2 weeks
 
+## 5. Milestones
 
+Project kickoff meeting: April 18, 2023
+Design and development completed: June 30, 2023
+Testing and quality assurance completed: July 15, 2023
+Website launch: August 1, 2023
+
+## 6. Risks, Assumptions, and Constraints:
+
+Risks:
+
+Technical issues may arise during the development phase.
+Delays may occur if team members are unable to meet their deadlines.
+Customer requirements may change during the development phase.
+
+Assumptions:
+
+The team members have the necessary skills and knowledge to complete the project successfully.
+The customer's requirements are clearly defined and will not change significantly during the development phase.
+The project will be completed within the allotted time and budget.
+
+Constraints:
+
+The project must be completed within a budget of $50,000.
+The website must be developed using WordPress.
+The website must be compatible with all major web browsers.
+Risk Evaluation Chart:
+
+Risk	Likelihood	Impact	Severity
+Technical issues during development	Moderate	High	High
+Team members missing deadlines	Low	High	Medium
+Customer requirements change	Low	High	Medium
