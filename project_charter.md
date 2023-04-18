@@ -1,4 +1,5 @@
-1. Introduction
+## 1. Introduction
+
 Project Name: E-Commerce Brand Website for Face Masks
 
 Version: 1.0
