@@ -72,3 +72,22 @@ The E-Commerce Brand Website for Face Masks project aims to achieve the followin
 - Implement a product catalog that showcases the available face masks and their details.
 - Build a customer support system that enables customers to get in touch with the brand and get their queries resolved.
 - Implement an order tracking system that enables customers to track the status of their orders.
+
+## 4. Deliverables
+
+Website wireframes
+Website layout and graphics
+Website functionality
+Product pages with descriptions and pricing
+Secure shopping cart functionality
+Website testing results
+Website launch
+
+Gantt Chart
+
+Task	Start Date	End Date	Duration
+Project planning	April 18, 2023	May 14, 2023	4 weeks
+Design and development	May 15, 2023	June 30, 2023	7 weeks
+Testing and quality assurance	July 1, 2023	July 15, 2023	2 weeks
+Launch and deployment	July 16, 2023	August 1, 2023	2 weeks
+
