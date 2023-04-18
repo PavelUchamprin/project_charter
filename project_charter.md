@@ -127,6 +127,8 @@ Risk Evaluation Chart:
 | Team members missing deadlines | Low | High | Medium |
 | Customer requirements change | Low | High | Medium |
 
+## 7. Organization/Stakeholders
+
 ## Organization/Stakeholders
 | Name | Role | Contact Information |
 |------|------|---------------------|
@@ -135,6 +137,8 @@ Risk Evaluation Chart:
 | Sarah Lee | Developer | sarah.lee@senecacollege.ca |
 | Emily Chen | QA Tester | emily.chen@senecacollege.ca |
 | Jane Doe | Customer | jane.doe@customer.com |
+
+## 8. Preliminary Budget
 
 ## Preliminary Budget
 | Cost | Amount |
