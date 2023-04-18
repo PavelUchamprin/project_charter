@@ -95,8 +95,11 @@ Gantt Chart
 ## 5. Milestones
 
 Project kickoff meeting: April 18, 2023
+
 Design and development completed: June 30, 2023
+
 Testing and quality assurance completed: July 15, 2023
+
 Website launch: August 1, 2023
 
 ## 6. Risks, Assumptions, and Constraints:
@@ -129,7 +132,6 @@ Risk Evaluation Chart:
 
 ## 7. Organization/Stakeholders
 
-## Organization/Stakeholders
 | Name | Role | Contact Information |
 |------|------|---------------------|
 | Marcel Jar | Project Manager | marcel.jar@senecacollege.ca |
@@ -140,7 +142,6 @@ Risk Evaluation Chart:
 
 ## 8. Preliminary Budget
 
-## Preliminary Budget
 | Cost | Amount |
 |------|--------|
 | Personnel per sprint | $10,000 |
