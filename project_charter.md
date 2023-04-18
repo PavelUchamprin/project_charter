@@ -127,3 +127,19 @@ Risk Evaluation Chart:
 | Team members missing deadlines | Low | High | Medium |
 | Customer requirements change | Low | High | Medium |
 
+## Organization/Stakeholders
+| Name | Role | Contact Information |
+|------|------|---------------------|
+| Marcel Jar | Project Manager | marcel.jar@senecacollege.ca |
+| John Smith | Designer | john.smith@senecacollege.ca |
+| Sarah Lee | Developer | sarah.lee@senecacollege.ca |
+| Emily Chen | QA Tester | emily.chen@senecacollege.ca |
+| Jane Doe | Customer | jane.doe@customer.com |
+
+## Preliminary Budget
+| Cost | Amount |
+|------|--------|
+| Personnel per sprint | $10,000 |
+| Fixed costs (hosting, infrastructure, rent, etc.) | $20,000 |
+| Contingency (15%) | $7,500 |
+| Total | $37,500 |
