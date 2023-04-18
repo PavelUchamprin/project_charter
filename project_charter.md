@@ -61,3 +61,14 @@ Project Summary: The E-Commerce Brand Website for Face Masks project aims to dev
 8.1 Bug Fixing
 
 8.2 Feature Enhancements
+
+
+## 3. Overview and Objectives
+
+The E-Commerce Brand Website for Face Masks project aims to achieve the following objectives:
+
+- Develop a user-friendly website for an e-commerce brand that sells face masks.
+- Implement a shopping cart and checkout system to enable customers to purchase products online.
+- Implement a product catalog that showcases the available face masks and their details.
+- Build a customer support system that enables customers to get in touch with the brand and get their queries resolved.
+- Implement an order tracking system that enables customers to track the status of their orders.
