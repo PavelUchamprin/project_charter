@@ -85,9 +85,24 @@ Website launch
 
 Gantt Chart
 
-Task	Start Date	End Date	Duration
-Project planning	April 18, 2023	May 14, 2023	4 weeks
-Design and development	May 15, 2023	June 30, 2023	7 weeks
-Testing and quality assurance	July 1, 2023	July 15, 2023	2 weeks
-Launch and deployment	July 16, 2023	August 1, 2023	2 weeks
+Project Planning:
+Start Date: April 18, 2023
+End Date: May 14, 2023
+Duration: 4 weeks
+
+Design and Development:
+Start Date: May 15, 2023
+End Date: June 30, 2023
+Duration: 7 weeks
+
+Testing and Quality Assurance:
+Start Date: July 1, 2023
+End Date: July 15, 2023
+Duration: 2 weeks
+
+Launch and Deployment:
+Start Date: July 16, 2023
+End Date: August 1, 2023
+Duration: 2 weeks
+
 
